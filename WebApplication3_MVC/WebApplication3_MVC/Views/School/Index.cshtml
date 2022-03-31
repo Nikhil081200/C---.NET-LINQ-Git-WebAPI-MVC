@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WebApplication3_MVC.Models.School>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table" border="1px" style="background-color:aqua;" cellpadding="15px">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Stname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sublikes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stmailid)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sublikes)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stmailid)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Rollno">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Rollno">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Rollno">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,29 @@
+﻿@model WebApplication3_MVC.Models.Employee
+
+<h2>Employee_Dept Details</h2>
+
+<table border="3px" style="background-color:aqua;" cellpadding="15px">
+    <tr>
+        <td colspan="2">Employee_Dept Details</td>
+    </tr>
+    <tr>
+        <td>EID:</td>
+        <td>@Model.eid</td>
+    </tr>
+    <tr>
+        <td>ENAME:</td>
+        <td>@Model.ename</td>
+    </tr>
+    <tr>
+        <td>Designation:</td>
+        <td>@Model.edesig</td>
+    </tr>
+    <tr>
+        <td>Dept_Name:</td>
+        <td>@Model.dobj.dname</td>
+    </tr>
+    <tr>
+        <td>Noofemployees:</td>
+        <td>@Model.dobj.noofemp</td>
+    </tr>
+</table>

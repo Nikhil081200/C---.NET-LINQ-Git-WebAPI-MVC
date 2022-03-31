@@ -1,0 +1,10 @@
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.AssemblyReference.cache
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Nilesh H. Prasad\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb

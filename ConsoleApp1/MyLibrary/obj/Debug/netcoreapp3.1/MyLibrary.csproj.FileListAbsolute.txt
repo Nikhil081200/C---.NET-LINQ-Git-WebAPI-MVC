@@ -1,0 +1,9 @@
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleApp1\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb

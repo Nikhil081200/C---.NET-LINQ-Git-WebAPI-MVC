@@ -1,0 +1,33 @@
+﻿@model WebApplication3_MVC.ViewModel.Final
+
+<h2>Student Details</h2>
+
+<table border="3px" style="background-color:aqua;" cellpadding="15px">
+    <tr>
+        <td colspan="2">Student Details</td>
+    </tr>
+    <tr>
+        <td>Registration Number:</td>
+        <td>@Model.stuobj.regno</td>
+    </tr>
+    <tr>
+        <td>student Nam:</td>
+        <td>@Model.stuobj.stname</td>
+    </tr>
+    <tr>
+        <td>Student Mail ID:</td>
+        <td>@Model.stuobj.smailid</td>
+    </tr>
+    <tr>
+        <td>Total Marks:</td>
+        <td>@Model.msobj.total</td>
+    </tr>
+    <tr>
+        <td>Percentage:</td>
+        <td>@Model.msobj.percentage</td>
+    </tr>
+    <tr>
+        <td>Grade:</td>
+        <td>@Model.msobj.grade</td>
+    </tr>
+</table>
